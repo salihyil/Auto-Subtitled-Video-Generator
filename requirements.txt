@@ -1,0 +1,8 @@
+streamlit
+streamlit-lottie
+mlx
+mlx-whisper
+requests
+numpy
+watchdog
+yt-dlp
